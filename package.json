@@ -1,0 +1,21 @@
+{
+  "name": "UnNodeJS",
+  "version": "1.0.0",
+  "description": "Una pagina web con node.js puro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwbcruzv/UnNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwbcruzv/UnNodeJS/issues"
+  },
+  "homepage": "https://github.com/edwbcruzv/UnNodeJS#readme"
+}

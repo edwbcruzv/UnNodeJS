@@ -1,1 +1,3 @@
 # UnNodeJS
+
+> npm init -y
